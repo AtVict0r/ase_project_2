@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ase_project_2/static/css/main.1b6586b8.css",
-    "main.js": "/ase_project_2/static/js/main.4fbc096e.js",
+    "main.css": "/ase_project_2/static/css/main.ee8d8aee.css",
+    "main.js": "/ase_project_2/static/js/main.1b028698.js",
     "static/media/675e0403-93d9-422e-b8be-0784ff0e52f2.png": "/ase_project_2/static/media/675e0403-93d9-422e-b8be-0784ff0e52f2.e84d6fbfa412c8dc5cca.png",
     "static/media/a28cf456-176c-4200-8913-c9a8f78bd213-removebg-preview.png": "/ase_project_2/static/media/a28cf456-176c-4200-8913-c9a8f78bd213-removebg-preview.4f4d889a281f295f5ad5.png",
     "static/media/922000b5-860c-484e-8109-3729e743d0c2-removebg-preview.png": "/ase_project_2/static/media/922000b5-860c-484e-8109-3729e743d0c2-removebg-preview.51febf182b4a50fc861d.png",
@@ -11,11 +11,11 @@
     "static/media/1a020da3-a2d4-40bb-8754-a5a2dce04fa6-removebg-preview.png": "/ase_project_2/static/media/1a020da3-a2d4-40bb-8754-a5a2dce04fa6-removebg-preview.4d2f542b6088b57b10e0.png",
     "index.html": "/ase_project_2/index.html",
     "static/media/hamburger-menu-svgrepo-com.svg": "/ase_project_2/static/media/hamburger-menu-svgrepo-com.ada7a0b21abacf2bd79036a421e97772.svg",
-    "main.1b6586b8.css.map": "/ase_project_2/static/css/main.1b6586b8.css.map",
-    "main.4fbc096e.js.map": "/ase_project_2/static/js/main.4fbc096e.js.map"
+    "main.ee8d8aee.css.map": "/ase_project_2/static/css/main.ee8d8aee.css.map",
+    "main.1b028698.js.map": "/ase_project_2/static/js/main.1b028698.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b6586b8.css",
-    "static/js/main.4fbc096e.js"
+    "static/css/main.ee8d8aee.css",
+    "static/js/main.1b028698.js"
   ]
 }
