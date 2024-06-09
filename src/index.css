@@ -305,10 +305,18 @@ div.product-info div.product-description {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-around;
 }
 
 div.product-info div.product-description img {
-  max-width: 502px;
-  max-height: 512px;
-  padding-right: 3rem;
+  max-width: 300px;
+  max-height: 312px;
+}
+
+div.product-info div.product-quantity {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 20%;
 }
