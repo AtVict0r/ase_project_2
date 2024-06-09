@@ -1,11 +1,10 @@
 import React from "react";
- 
+
 const Modal = ({ isOpen, onClose, children }) => {
     if (!isOpen) return null;
- 
+
     return (
         <div
-            onClick={onClose}
             style={{
                 position: "fixed",
                 top: 0,
@@ -16,24 +15,16 @@ const Modal = ({ isOpen, onClose, children }) => {
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
+                flexDirection: "column"
             }}
-        >
-            <div
-                style={{
-                    background: "white",
-                    height: 150,
-                    width: 240,
-                    margin: "auto",
-                    padding: "2%",
-                    border: "2px solid #000",
-                    borderRadius: "10px",
-                    boxShadow: "2px solid black",
-                }}
-            >
-                {children}
-            </div>
+        > 
+            <button 
+                onClick={onClose} 
+                style={{ position: "absolute", top: 20, right: 20, fontSize: "1.5rem" }}
+            >Close</button>            
+            {children}
         </div>
     );
 };
- 
+
 export default Modal;
